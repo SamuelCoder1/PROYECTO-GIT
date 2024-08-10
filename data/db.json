@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "f77f",
+      "name": "Angela",
+      "email": "angela@gmail.com",
+      "dob": "2024-06-06",
+      "password": "ang123",
+      "role": "visitor"
+    },
+    {
+      "id": "b239",
+      "name": "SI",
+      "email": "si@gmail.com",
+      "password": "SAMU2006.",
+      "role": "visitor"
+    },
+    {
+      "id": "928a",
+      "name": "Emanuel",
+      "email": "emanuel@gmail.com",
+      "password": "emanuel123",
+      "role": "visitor"
+    },
+    {
+      "id": "a602",
+      "name": "davison",
+      "email": "davison@gmail.com",
+      "password": "davi123.",
+      "role": "visitor"
+    }
+  ]
+}
